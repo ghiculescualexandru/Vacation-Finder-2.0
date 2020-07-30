@@ -1,0 +1,124 @@
+add zone mountain
+add zone sea
+add zone urban
+add zone lake
+add zone river
+add zone other
+add country bulgaria sea
+add sport tennis ball 10 5/6/2020 6/7/2020 teis-tenis targoviste romania urban
+add sport football ball 20 5/6/2020 6/7/2020 baza-agrement targoviste romania urban
+add sport surf extreme 60 5/6/2020 6/7/2020 palm-beach hawaii usa sea
+add region brasov romania mountain
+add sport ski extreme 380 5/6/2020 6/7/2020 happy-ski tirol austria mountain
+add sport ski extreme 820 5/6/2020 6/7/2020 snow-kings bansko bulgaria mountain
+add sport ski extreme 280 5/6/2020 6/7/2020 children-of-the-snow berna elvetia mountain
+add sport ski extreme 810 5/6/2020 6/7/2020 flo-adventure cluj romania mountain
+add sport climbing extreme 30 5/6/2020 6/7/2020 vertical-spirit bucuresti romania urban
+add sport climbing extreme 820 5/6/2020 6/7/2020 nat-place sinaia romania mountain
+add sport climbing extreme 75 5/6/2020 6/7/2020 tamina-waterfall timisul-de-sus romania mountain
+add sport scuba-diving extreme 80 5/6/2020 6/7/2020 euphoria bali indonesia sea
+add sport diving extreme 120 5/6/2020 6/7/2020 eunoia cairns australia ocean
+add sport yoga relaxing 20 5/6/2020 6/7/2020 eunoia cairns australia ocean
+add sport diving extreme 130 5/6/2020 6/7/2020 hurgada ras-muhammad egipt ocean
+add sport polo ball 150 5/6/2020 6/7/2020 pacifics galapagos ecuador ocean
+add sport surf extreme 120 5/6/2020 6/7/2020 fuerteventura canary-islands camary-islands sea
+add sport ice-climbing extreme 150 5/6/2020 6/7/2020 frozen canmore alberta mountain
+add sport kite-buggying extreme 120 5/6/2020 6/7/2020 north-east-location conway-beach australia sea
+add country bulgaria mountain
+add country moldova urban
+add country usa urban
+add country romania urban
+add region targoviste romania urban
+add region santorini greece sea
+add sport basket ball 20 5/6/2020 6/7/2020 baza-agrement targoviste romania urban
+add country russia mountain
+add country russia urban
+add region arges romania lake
+add sport yoga relaxing 45 5/6/2020 6/7/2020 yoga-padina padina romania mountain
+add sport bowen relaxing 30 5/6/2020 6/7/2020 bowen-tgv targoviste romania urban
+add location v-v targoviste romania lake
+add region bezdead romania river
+add country usa lake
+add country usa river
+add zone country-side
+add sport football ball 0 5/6/2020 6/7/2020 magura bezdead romania country-side
+add country uganda urban
+add country italy sea
+add country spain urban
+add country england urban
+add sport basketball ball 80 5/6/2020 6/7/2020 basket-for-all london england urban
+add sport basketball-training ball 120 5/6/2020 6/7/2020 basket-for-all london england urban
+add sport football ball 40 5/6/2020 6/7/2020 soccer-for-all london england urban
+add location tennis-for-all london england urban
+add location baseball-for-all london england urban
+add region manchester england urban
+add region lefkada greece sea
+add region santorini greece mountain
+add country argentina river
+add country argentina mountain
+add country monaco urban
+add zone urban
+add zone urban
+add zone urban
+add zone riverceva
+add sport chess relaxing 30 30/5 30/6 chess-club targoviste romania other
+add sport chess-training relaxing 50 30/5 30/6 chess-club targoviste romania other
+add country india urban
+add location Groove India India Urban
+add sport d d 2 d d d d d d
+add sport d d 2 d d d d d d
+add sport d d 2 d d d d d d
+add sport d d 2 d c c c c c
+add sport y yy 2 y y y y y y
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add location location region country zone
+add sport sport-name sport-type 0 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add location location region country zone
+add country country zone
+add location location region country zone
+add region region country zonedd zone zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add country country zone
+add location location region country zone
+add region region country zone
+add region region country zone
+add region region country zone
+add region region country zone
+add region region country zone
+add region region country zone
+add country country zone
+add location location region country zone
+add region region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zonedd zone zone
+add location location region country zone
+add region region country zonedd zone zone
+add country country zone
+add region region country zone
+add country country zone
+add region region country zone
+add country country zone
+add region region country zone
+add sport sport-name sport-type 10 start-date finish-date location region country zone
+add location location region country zone
+add country country zone
+add region region country zone
+add country region country
+add country country zonedd zone zone
+add region region country zone
+add region region country zonedd zone zone
+add region region country zone
+add region region country zone
+add location location region country zone
+add country country zonedd zone zone
+add region region country zone
+add region region country zone
+add country country zone
+add sport football ball 30 05/05 08/08 hooligans targoviste romania urban
